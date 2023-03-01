@@ -5,10 +5,9 @@
 <br>
 
 # <u>`Teammates` :gem: </u>  
-<details>
-Vasu Arora (Lead)
-Devrajsinh Gohil
-Aniq Javed
-Kiran Mishra
-</details>
+
+Vasu Arora (Lead)<br>
+Devrajsinh Gohil<br>
+Aniq Javed<br>
+Kiran Mishra<br>
   
