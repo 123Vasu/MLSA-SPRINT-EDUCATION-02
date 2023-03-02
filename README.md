@@ -18,7 +18,7 @@ Read through these lines to know more about me :smiley:**
    ***:octocat: [Vasu Arora (Lead)](https://github.com/123Vasu)<br>
     :octocat: [Devrajsinh Gohil](https://github.com/Devrajsinh-Gohil)<br>
     :octocat: [Kiran Mishra](https://github.com/Kirann21)<br>
-    :octocat:  Aniq Javed<br>***
+    :octocat:  [Aniq Javed](https://github.com/AniqJaved)<br>***
   <br>
   
 # <u> `Problem Statement ` :mag: </u>
