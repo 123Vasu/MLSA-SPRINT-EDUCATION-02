@@ -14,7 +14,7 @@ Read through these lines to know more about me :smiley:**
 
 # <u>`Teammates` :gem: </u>  
 
-   ***:octocat: Vasu Arora (Lead)<br>
+   ***:octocat: Vasu Arora (Lead)[Link](<br>
     :octocat: Devrajsinh Gohil<br>
     :octocat: Kiran Mishra<br>
     :octocat:  Aniq Javed<br>***
