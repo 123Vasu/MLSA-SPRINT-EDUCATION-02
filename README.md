@@ -6,14 +6,16 @@
 
 # <u>`Teammates` :gem: </u>  
 
-***Vasu Arora (Lead)<br>
-Devrajsinh Gohil<br>
-Aniq Javed<br>
-Kiran Mishra***
+   ***Vasu Arora (Lead)<br>
+  Devrajsinh Gohil</li>
+  <li>Aniq Javed</li>
+  <li>Kiran Mishra</li></ul>
   
-# <u> `The Problem that our Project solves ` :mag: </u>
+# <u> `Problem Statement ` :mag: </u>
 
 **Every student has a passion towards observing the surroundings and pen down their thoughts in form of essays,poems reports or any written assignment. Due to lack to proper guidance and the inability of getting someone rate their written works, these students are unable of understand their true potential. It becomes difficult of the educators as well to grade and provide feedback to the students instantly.It becomes a tedious task for both and due to this circumstances we lose a great novelist or a remarkable poet.Our team understood this issue and tried to solve this with the power of Machine Learning.**
+
+# <u> `Project Overview` :star2: </u>
 
 **Our project is Natural Language Processing (NLP) model for automated grading. The NLP algorithms automatically grades the student's essays,reports and other written assignments.Students get instant validation and grades on their work and are able to understand their weak points without waiting for anyone to invest their time on checking their works.This also saves the time and effort of the educators and help them to provide prompt feedback to the students. In this way, students can improve their writing skills at a fast pace without the constraints of waiting for validations.**
 
