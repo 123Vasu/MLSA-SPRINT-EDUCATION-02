@@ -9,7 +9,7 @@
 
 # <u> `Hello, I am Sprint!` :wave:</u>
   
-**A machine learning model created by four tech-savvy Microsoft Learn Student Ambassadors
+**A machine learning model created by four tech-savvy Microsoft Learn Student Ambassadors.
 Read through these lines to know more about me :smiley:**
 <br>
 
