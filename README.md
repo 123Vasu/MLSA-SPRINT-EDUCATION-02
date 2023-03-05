@@ -1,7 +1,7 @@
 
 <h1 align='center'> MLSA-SPRINT-EDUCATION </h1>
 
-###  ***This project is a **'SOCIAL IMPACT PROJECT'** on the topic - *Education*. This is our sincere effort to help students to improve their writing proficiency and equip them with the confidence to show their creativity and write masterpieces.*** 
+###  ***This project is a **'SOCIAL IMPACT PROJECT'** on the topic of - *Education*. This is our sincere effort to help educational institutions by providing them with a tool to track and analyse the attendance of the students in a hassle-free way.*** 
 
 <br>
 
@@ -23,7 +23,7 @@ Read through these lines to know more about me :smiley:**
   
 # <u> `Problem Statement ` :mag: </u>
 
-**Every student has a keen interest in observing their surroundings and penning down their thoughts in form of essays, poem reports or any written assignment. Due to a lack of proper guidance and the inability of getting someone to rate their written works, these students are unable to understand their true potential. It becomes difficult for the educators as well to grade and provide feedback to the students instantly. It becomes a tedious task for both and due to these circumstances, we lose a great novelist or a remarkable poet.There are no such grading models that compare writing skills to a large amount of data available. Our team understood this issue and tried to solve this with the power of Machine Learning.**
+**As students, we all are on high alert during the attendance waiting for the educator to call our name. This manual data entry for attendance takes 10-15 minutes of our valuable learning time still, there are certain inaccuracies in the data collected and it never tallies perfectly with your actual attendance record.Educators can't catch the ones giving proxy attendance for their best friends.Moreover, such big files are really hard to manage and it's a burden on the educators to analyse that written data and keep the records of every student. We believe technology should reach every level of the education system to make it more fluid. Our team understood this issue and tried to solve this with the power of Machine Learning.**
 
 <br>
 
