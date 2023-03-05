@@ -29,7 +29,7 @@ Read through these lines to know more about me :smiley:**
 
 # <u> `Project Overview` :star2: </u>
 
-**Our project is a Facial Recognition Attendance System based on Python. It has many benefits over the traditional attendance systems that use ID cards or signatures. Face recognition technology is highly accurate and can identify individuals with a high level of precision. This means that there is less chance of errors in the attendance records. Some of the other benefits include -<br>
+**Our project is a Facial Recognition Attendance System based on Python which uses Opencv. It has many benefits over the traditional attendance systems that use ID cards or signatures. Face recognition technology is highly accurate and can identify individuals with a high level of precision. This means that there is less chance of errors in the attendance records. Some of the other benefits include -<br>
 :sun_with_face: A face recognition attendance system can save a significant amount of time compared to manual systems. It can quickly capture attendance data and process  it automatically, without requiring any manual intervention.<br>
 :sun_with_face: It is more secure than traditional systems that rely on ID cards or signatures. It is much harder for someone to impersonate another person or cheat the system, as face recognition technology can detect such attempts.**
 
