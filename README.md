@@ -39,8 +39,12 @@ Read through these lines to know more about me :smiley:**
 
 # <u> `Tech Stack` :computer:</u>
 
-**1) Numpy<br>                                                                                                                                                        2) Pandas<br>                                                                                                                                                         3) Natural Language Processing (NLP)<br>
-4) Matplotlib<br>
-5) Machine Learning<br>
-6) Seaborn<br>
-7) Kaggle**                
+**:round_pushpin: Opencv<br> 
+ :round_pushpin: Numpy<br>
+ :round_pushpin: Pandas<br>
+:round_pushpin: Scikit Learn<br>
+ :round_pushpin: Joblib<br>
+ :round_pushpin: html<br>
+ :round_pushpin: CSS<br>
+ :round_pushpin: Javascript<br>
+ :round_pushpin: Flask**                
