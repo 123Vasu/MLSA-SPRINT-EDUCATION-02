@@ -66,7 +66,7 @@ Read through these lines to know more about me :smiley:**
 **Registration phase -**<br>
 
 **First student registers her name and ID :**
-![1st Student]()
+![1st Student](https://github.com/123Vasu/MLSA-SPRINT-EDUCATION-02/blob/main/doel.png)
 
 
 
