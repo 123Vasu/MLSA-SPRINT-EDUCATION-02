@@ -51,6 +51,8 @@ Read through these lines to know more about me :smiley:**
  :round_pushpin: Javascript<br>
  :round_pushpin: Flask**                
 
+<br>
+
 # <u> `How it Works` 💡</u>
 
 **Our face recognition application basically works in two phases -** <br>
@@ -59,11 +61,13 @@ Read through these lines to know more about me :smiley:**
 
 **:seedling: Once the registration phase is over, the system gets fully trained to take attendance. Each student present just needs to sit in front of the camera module and press the 'Take Attendance' button. The camera module searches for the student's face in the stored database and reflects the attendance with the name, ID and time in less than 5 seconds.**
 
+<br>
+
 # <u> `Trial Session #1` :stopwatch:</u>
 
 **We tried our application with few of our classmates and here are some images of the same -**<br>
 
-**Registration phase -**<br>
+## <u> **Registration phase -**</u><br>
 
 **First student registers her name and ID :**<br>
 
