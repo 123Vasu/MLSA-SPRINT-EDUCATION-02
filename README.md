@@ -59,22 +59,28 @@ Read through these lines to know more about me :smiley:**
 
 **:seedling: Once the registration phase is over, the system gets fully trained to take attendance. Each student present just needs to sit in front of the camera module and press the 'Take Attendance' button. The camera module searches for the student's face in the stored database and reflects the attendance with the name, ID and time in less than 5 seconds.**
 
-# <u> `Trial Session #1` :</u>
+# <u> `Trial Session #1` :stopwatch:</u>
 
 **We tried our application with few of our classmates and here are some images of the same -**<br>
 
 **Registration phase -**<br>
 
 **First student registers her name and ID :**<br>
+
 ![1st Student](https://github.com/123Vasu/MLSA-SPRINT-EDUCATION-02/blob/main/doel.png)
+
 `Database shows 1 when the second student fills up his details`<br>
+
 ![2nd Student](https://github.com/123Vasu/MLSA-SPRINT-EDUCATION-02/blob/main/achint.png)
+
 `Database counts upto 2`<br>
+
 **This goes on until all the students register themselves in the system. Here we have done this trial only on four students.**<br>
 
-**Attendance Time!**
+## <u> **Attendance Time!**:smiley:</u>
 
 **Each student sits in front of the camera module one by one and within few seconds his/her attendance is reflected.**<br>
+
   ![Attendancde](https://github.com/123Vasu/MLSA-SPRINT-EDUCATION-02/blob/main/Screenshot%20(72).png)
 
 
