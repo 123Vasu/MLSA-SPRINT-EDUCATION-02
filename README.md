@@ -65,8 +65,17 @@ Read through these lines to know more about me :smiley:**
 
 **Registration phase -**<br>
 
-**First student registers her name and ID :**
+**First student registers her name and ID :**<br>
 ![1st Student](https://github.com/123Vasu/MLSA-SPRINT-EDUCATION-02/blob/main/doel.png)
+`Database shows 1 when the second student fills up his details`<br>
+![2nd Student](https://github.com/123Vasu/MLSA-SPRINT-EDUCATION-02/blob/main/achint.png)
+`Database counts upto 2`<br>
+**This goes on until all the students register themselves in the system. Here we have done this trial only on four students.**<br>
+
+**Attendance Time!**
+
+**Each student sits in front of the camera module one by one and within few seconds his/her attendance is reflected.**<br>
+  ![Attendancde](https://github.com/123Vasu/MLSA-SPRINT-EDUCATION-02/blob/main/achint.png)
 
 
 
