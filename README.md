@@ -61,6 +61,12 @@ Read through these lines to know more about me :smiley:**
 
 # <u> `Trial Session #1` :</u>
 
-**We tried our application with few of our classmates and here are some images of the same - 
+**We tried our application with few of our classmates and here are some images of the same -**<br>
+
+**Registration phase -**<br>
+
+**First student registers her name and ID :**
+![1st Student]()
+
 
 
