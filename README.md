@@ -75,7 +75,7 @@ Read through these lines to know more about me :smiley:**
 **Attendance Time!**
 
 **Each student sits in front of the camera module one by one and within few seconds his/her attendance is reflected.**<br>
-  ![Attendancde](https://github.com/123Vasu/MLSA-SPRINT-EDUCATION-02/blob/main/achint.png)
+  ![Attendancde](https://github.com/123Vasu/MLSA-SPRINT-EDUCATION-02/blob/main/Screenshot%20(72).png)
 
 
 
