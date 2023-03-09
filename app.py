@@ -103,7 +103,6 @@ def home():
 def add():
     newusername = request.form['newusername']
     newuserid = request.form['newuserid']
-    userimagefolder = 'static/faces/' + newusername + '_' + str(newuserid)
     if not os.path.isdir(userimagefolder):
         os.makedirs(userimagefolder)
     capture = cv2.VideoCapture(0)
